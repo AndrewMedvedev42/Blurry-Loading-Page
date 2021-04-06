@@ -27,6 +27,14 @@ body{
 }
 
 .loading-text{
-    color: white;
+    box-shadow: black 0px 5px 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12rem;
+    height: 12rem;
     font-size: 4rem;
+    padding: 20px;
+    background: rgb(255, 255, 255);
 }
